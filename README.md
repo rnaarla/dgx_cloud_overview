@@ -34,9 +34,9 @@ NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered a
 | Acceleration Libraries | Network I/O, Storage I/O, In-Network Compute | Optimized data transfer, Storage performance, Network acceleration |
 | Operating System | DGX OS Extensions | Linux optimization, System enhancements, Security features |
 
-## Platform Specifications and Distinctions 
+## Platform Specifications,Distinctions and Use Cases
 
-| Specifications | DGX SuperPOD GB200 | DGX SuperPOD B200 | DGX BasePOD |
+| Specifications | [DGX SuperPOD GB200](https://www.nvidia.com/en-us/data-center/dgx-superpod/) | [DGX SuperPOD B200](https://www.nvidia.com/en-us/data-center/dgx-b200/) | [DGX BasePOD](https://www.nvidia.com/en-us/data-center/dgx-basepod/) |
 |----------------|-------------------|-------------------|--------------|
 | Processing Power | 11.5 exaflops AI (FP4) | 144 petaflops AI (FP4) | Scalable configuration |
 | Memory | 1.4TB GPU, 64TB/s bandwidth | 1.4TB GPU | Configuration dependent |
@@ -45,24 +45,13 @@ NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered a
 | Networking | Quantum InfiniBand (1,800 GB/s per GPU) | Quantum InfiniBand | QM9700/QM8700 switches |
 | Cooling System | Liquid cooling | Advanced air cooling | Standard data center |
 | Scalability | Thousands of Superchips | Multiple racks | 2+ nodes |
-
-### Key Platform Distinctions
-
-| Platform | Key Characteristics |
-|----------|-------------------|
-| SuperPOD GB200 | Highest performance tier, Purpose-built for massive AI models, Advanced liquid cooling system, Integrated Grace CPU architecture |
-| SuperPOD B200 | Traditional data center design, Flexible deployment options, Intel Xeon processor based, Suited for diverse workloads |
-| BasePOD | Entry-level enterprise solution, Cost-effective deployment, Flexible reference architecture, Simple deployment and management |
-
-## Use Cases and Applications
-
-| Platform | Primary Applications | Industry Focus | Specialized Use Cases |
-|----------|---------------------|----------------|---------------------|
-| DGX SuperPOD GB200 | Large Language Models, Scientific Simulations, Drug Discovery | Research Institutions, Pharmaceutical, Weather Forecasting | Molecular Dynamics, Climate Modeling, Financial Risk Analysis |
-| DGX SuperPOD B200 | Enterprise AI Development, Computer Vision, NLP Applications | Enterprise Organizations, AI Research Centers, Development Teams | Autonomous Systems, Multi-tenant Development, Production AI Services |
-| DGX BasePOD | ML Development, AI Prototyping, Academic Research | Startups, Academic Institutions, Research Departments | Departmental Projects, Proof of Concepts, Educational Training |
+| Key Platform Distinctions | Highest performance tier, Purpose-built for massive AI models, Advanced liquid cooling system, Integrated Grace CPU architecture | Traditional data center design, Flexible deployment options, Intel Xeon processor based, Suited for diverse workloads | Entry-level enterprise solution, Cost-effective deployment, Flexible reference architecture, Simple deployment and management |
+| Primary Applications | Large Language Models, Scientific Simulations, Drug Discovery | Enterprise AI Development, Computer Vision, NLP Applications  | ML Development, AI Prototyping, Academic Research |
+| Industry Focus | Research Institutions, Pharmaceutical, Weather Forecasting  | Enterprise Organizations, AI Research Centers, Development Teams | Startups, Academic Institutions, Research Departments |
+| Use Cases | Molecular Dynamics, Climate Modeling, Financial Risk Analysis | Autonomous Systems, Multi-tenant Development, Production AI Services | Departmental Projects, Proof of Concepts, Educational Training |
 
 ## NGC Portal Integration
+![NVIDIA DGX Software Stack](NGC.ng)
 
 | Service Category | Components | Key Features |
 |-----------------|------------|--------------|
