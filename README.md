@@ -51,7 +51,7 @@ NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered a
 | Use Cases | Molecular Dynamics, Climate Modeling, Financial Risk Analysis | Autonomous Systems, Multi-tenant Development, Production AI Services | Departmental Projects, Proof of Concepts, Educational Training |
 
 ## NGC Portal Integration
-![NVIDIA DGX Software Stack](NGC.ng)
+![NGC Image](NGC.png)
 
 | Service Category | Components | Key Features |
 |-----------------|------------|--------------|
