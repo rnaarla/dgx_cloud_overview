@@ -1,4 +1,4 @@
-# NVIDIA DGX Systems: Comprehensive Technical Guide
+# NVIDIA DGX Systems: Overview
 
 NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered as pre-built rack systems with comprehensive hardware and software integration. These systems function as complete AI supercomputing factories, eliminating traditional infrastructure challenges while providing scalable solutions for diverse AI workloads.
 
