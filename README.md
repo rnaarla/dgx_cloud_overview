@@ -1,6 +1,15 @@
 # NVIDIA DGX Systems: Overview
 
-NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered as pre-built rack systems with comprehensive hardware and software integration. These systems function as complete AI supercomputing factories, eliminating traditional infrastructure challenges while providing scalable solutions for diverse AI workloads.
+NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered as pre-built rack systems with comprehensive hardware and software integration. These systems function as complete AI supercomputing factories, eliminating traditional infrastructure challenges while providing scalable solutions for diverse AI workloads. NVIDIA DGX Cloud is a cloud-based AI supercomputing platform that provides instant access to powerful AI computing infrastructure. Its foundation consists of:
+
+**Hardware:** DGX H100 system with 8 NVIDIA H100 Tensor Core GPUs, Intel Xeon processors, and NVMe storage
+**Software:** NVIDIA Base Command Platform, NVIDIA AI Enterprise software suite, and NGC catalog
+**Management and Control Layer:** Sophisticated management layer for resource allocation, security, and optimization
+**Networking Infrastructure:** High-speed networking with NVIDIA ConnectX-7 NICs
+**Integration Layer:** Seamless integration with cloud platforms like AWS, Azure, and Google Cloud
+
+These components work together to create a unified platform for demanding AI workloads.
+![NVIDIA_DGXClooud_Flow](NVIDIA_DGXClooud_Flow.png)
 
 ## Core Infrastructure Components
 
