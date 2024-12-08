@@ -35,6 +35,7 @@ NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered a
   - Seamless cross-platform operations
 
 These components work together to create a unified platform for demanding AI workloads.
+
 ![NVIDIA_DGXClooud_Flow](NVIDIA_DGXClooud_Flow.png)
 
 # Core Infrastructure Components 
