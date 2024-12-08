@@ -11,6 +11,7 @@ NVIDIA DGX systems represent the pinnacle of AI computing solutions, delivered a
 | Storage Architecture | High-Performance Storage, Data Management, Cache Systems | NVMe SSD arrays, Parallel file systems, Multi-tier caching, Direct storage access, High-speed interconnects |
 
 ## Software Stack Architecture
+![NVIDIA DGX Software Stack](https://colfax-intl.com/images/lp/nvidia/dgx-sw-stack.jpg)
 
 ### NVIDIA AI Enterprise Layer
 
