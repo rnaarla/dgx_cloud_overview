@@ -1,6 +1,18 @@
 # NVIDIA DGX Cloud Overview
 
-This comprehensive documentation covers NVIDIA DGX systems, their components, architecture, and deployment options. The documentation provides detailed information about the hardware and software components, system architecture, and best practices for implementation.
+NVIDIA DGX Cloud is a fully managed AI platform specifically designed for AI development and optimized at every layer for high performance. Unlike other cloud platforms, it offers a complete solution with integrated infrastructure, software, and expert support.
+
+- The DGX Cloud UI is intuitive and features a dashboard providing a comprehensive view of cluster health and usage. It allows users to monitor resource allocation, GPU quotas, and overall system performance.
+- DGX Cloud enables efficient resource allocation by allowing administrators to manage and assign GPU quotas to different users. This ensures optimal utilization of resources and prevents any single user from monopolizing the system.
+- Users can run both interactive and distributed training workloads. Interactive workloads, like fine-tuning generative AI models, allow for real-time interaction and adjustments. Distributed training workloads, used for large-scale multi-node jobs, leverage the power of multiple GPUs for faster training.
+- The NVIDIA AI Enterprise software suite offers access to essential resources such as NVIDIA NeMo and NIM microservices, providing developers with pre-built models and tools to accelerate their AI workflows. It also includes a private registry for secure access to software components.
+- DGX Cloud provides high-performance shared storage directly connected to the cluster. This allows users to conveniently store their training data and model checkpoints within the DGX Cloud environment, ensuring quick and easy access.
+- To fine-tune a model using an interactive workload, users would first choose "Workspace" and select the NeMo container. Then they select Jupyter as their tool, choose the desired compute resource and storage, and create the workload. Finally, they can access Jupyter through the UI and begin the fine-tuning process within the notebook.
+- During the model training process, users can track progress, observe real-time GPU utilization, monitor performance metrics, and access logs to analyze the training process. This comprehensive view allows for efficient debugging and optimization.
+- DGX Cloud's multi-cloud support allows organizations to avoid vendor lock-in and maintain flexibility in their cloud strategy. They can choose the best cloud provider for their specific needs and seamlessly move workloads between different environments.
+- By providing a pre-configured, optimized platform with immediate access to powerful resources, DGX Cloud eliminates setup time and allows developers to begin training models immediately.
+
+![NVIDIA_DGXClooud_Features](nvidia_dgx_cloud_features.png) 
 
 ## Table of Contents
 
