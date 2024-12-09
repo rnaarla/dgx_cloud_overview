@@ -1,6 +1,6 @@
 # NVIDIA DGX Cloud Overview
 
-NVIDIA DGX Cloud is a fully managed AI platform specifically designed for AI development and optimized at every layer for high performance. Unlike other cloud platforms, it offers a complete solution with integrated infrastructure, software, and expert support.
+NVIDIA DGX Cloud is a fully managed, high-performance AI platform designed for ease of use and scalability. It offers intuitive management tools, including dashboards for monitoring and resource allocation, enabling efficient utilization of GPUs across multiple users. The platform integrates seamlessly with NVIDIA AI Enterprise software, providing access to crucial resources like NeMo and NIM microservices. High-performance storage facilitates quick access to data and model checkpoints, accelerating the AI development lifecycle. This cloud-based solution allows developers to focus on model training and fine-tuning rather than infrastructure management.
 
 - The DGX Cloud UI is intuitive and features a dashboard providing a comprehensive view of cluster health and usage. It allows users to monitor resource allocation, GPU quotas, and overall system performance.
 - DGX Cloud enables efficient resource allocation by allowing administrators to manage and assign GPU quotas to different users. This ensures optimal utilization of resources and prevents any single user from monopolizing the system.
@@ -91,6 +91,12 @@ Key features include:
 - Integrated cable management systems with color-coded pathways
 - Pre-configured networking with redundant paths
 - Factory-tested configurations with baseline reports
+- Fully managed: Eliminates the complexities of infrastructure management, allowing users to focus on AI development.
+- High-performance infrastructure: Delivers the power of NVIDIA GPUs, high-bandwidth networking, and fast storage for optimal performance.
+- Optimized software stack: Includes NVIDIA AI Enterprise, featuring tools like NVIDIA NeMo and NIM microservices, for streamlined AI workflows.
+- Intuitive user interface: Provides a comprehensive dashboard for monitoring cluster health, usage, and resource allocation.
+- Multi-cloud strategy: Offers flexibility to work across different cloud providers.
+- Expert support: Backed by NVIDIA AI experts for proactive assistance and guidance.
 
 #### Computing Components
 
